@@ -2,8 +2,11 @@ Hello 👋, I'm Diego Berrios
 
 💫 **About Me**
 🌱 I'm currently studying **Systems Engineering** and am in the final stretch.
+
 💻 I'm passionate about **software development, web technologies, and problem-solving**.
+
 🌍 I'm open to **remote opportunities** and am always eager to learn new technologies.
+
 📚 I'm currently improving my **English** to broaden my professional horizons.
 
 ---
