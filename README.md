@@ -1,6 +1,7 @@
 Hello 👋, I'm Diego Berrios
 
 💫 **About Me**
+
 🌱 I'm currently studying **Systems Engineering** and am in the final stretch.
 
 💻 I'm passionate about **software development, web technologies, and problem-solving**.
